@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://mim58.github.io/logoped/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://mim58.github.io/logoped/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://mim58.github.io/logoped/fr.html" />
+  </url>
+  <url>
+    <loc>https://mim58.github.io/logoped/fr.html</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://mim58.github.io/logoped/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://mim58.github.io/logoped/fr.html" />
   </url>
 </urlset>
